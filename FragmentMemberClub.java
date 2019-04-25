@@ -25,9 +25,7 @@ import java.util.ArrayList;
 import java.util.HashMap;
 import java.util.Map;
 
-/**
- * Created by yatindhingra on 14/01/18.
- */
+
 
 public class FragmentMemberClub extends Fragment {
 
